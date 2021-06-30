@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(DemoStructDefine.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  DemoStruct.cpp
+  DemoStructDefine.vcxproj -> E:\C_Base\C_Base\Debug\DemoStruct.exe
